@@ -1,11 +1,11 @@
 ## About the project
-This project is an online shopping cart system that allows users to browse products, add items to their shopping cart, and complete orders with secure payment processing. It supports user authentication, dynamic product management, and real-time updates to the shopping cart and order statuses. The backend is implemented in Java, while Oracle SQL is used for database management.
+The Online Shopping Cart project is a full-featured platform that allows users to browse products, add them to their cart, and complete orders through a secure checkout process. This system is built to simulate a real-world e-commerce application with robust back-end and front-end functionalities, enabling user management, product handling, and transaction processing.
 
 ## Features
-1. User Authentication: Secure registration and login functionality.
-2. Product Management: Admin users can add, update, and remove products from the catalog.
-3. Cart Operations: Users can add, remove, and adjust quantities of items in their cart.
-4. Order Processing: Complete checkout process with order summary and payment handling.
+1. User Authentication: Secure registration and login functionality; Role-based access control (admin, customer); Profile management and order history.
+2. Product Management: Admins can add, update, delete, and manage product listings; Support for product categories, descriptions, pricing, and stock levels.
+3. Cart Operations: Users can add, remove, or update the quantity of items in their cart; Dynamic calculation of totals and discounts.
+4. Order Processing: Complete checkout process, including payment information; Generation of order summary and confirmation; Order status tracking for users.
 5. Database Integration: All data is stored and managed using Oracle SQL.
 6. Error Handling and Validation: Comprehensive input validation and error handling.
 
