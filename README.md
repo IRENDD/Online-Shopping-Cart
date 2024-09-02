@@ -1,5 +1,5 @@
 ## About the project
-The Online Shopping Cart project is a full-featured platform that allows users to browse products, add them to their cart, and complete orders through a secure checkout process. This system is built to simulate a real-world e-commerce application with robust back-end and front-end functionalities, enabling user management, product handling, and transaction processing.
+The Online Shopping Cart project is a full-featured platform that allows users to browse products, add them to their cart, and complete orders through a secure checkout process. This system is built to simulate a real-world e-commerce application with robust back-end and CLI, enabling user management, product handling, and transaction processing.
 
 ## Features
 1. User Authentication: Secure registration and login functionality; Role-based access control (admin, customer); Profile management and order history.
